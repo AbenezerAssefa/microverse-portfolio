@@ -27,11 +27,12 @@ header {
   display: flex;
   font-weight: 700;
 }
+
 #logo:hover {
-  color: #202DC2;
+  color: #202dc2;
 }
-p,
-a {
+
+p,a {
   font-size: larger;
 }
 
