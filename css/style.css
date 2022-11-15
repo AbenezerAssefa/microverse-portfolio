@@ -32,7 +32,8 @@ header {
   color: #202dc2;
 }
 
-p,a {
+p,
+a {
   font-size: larger;
 }
 
